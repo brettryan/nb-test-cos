@@ -1,0 +1,9 @@
+target/
+*~
+*.bak
+*.swp
+*.log
+.DS_Store
+src/main/webapp/META-INF/context.xml
+pom.xml.versionsBackup
+/src/main/resources/logback-test.xml
