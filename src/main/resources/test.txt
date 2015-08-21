@@ -1,0 +1,4 @@
+
+This is the sample file.
+
+Modify it to test the functionality of CoS with Maven and resource processing.
